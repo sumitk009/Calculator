@@ -1,5 +1,5 @@
 # Calculator
 ___
 > **My first repository.** 
-:joy:
+:relaxed:
 ___
